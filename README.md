@@ -52,11 +52,15 @@ Verifica dell'Identità: Implementare procedure di verifica dell'identità per i
 ![Alt UML](https://yuml.me/diagram/usecase/[Freelancer]-(Viev%20project),%20[Freelancer]-(Login),%20[Freelancer]-(Viev%20profile),%20[Freelancer]-(Bind%20on%20project),%20[Freelancer]-(Viev%20reports),%20[Freelancer]-(See%20project%20allotment%20report),%20[Freelancer]-(Check%20notification),%20(Viev%20project)%20%3E%20(Login),%20(Login)%20%3E%20(Register),%20(Login)%20%3E%20(Viev%20profile),%20(Bind%20on%20project)%20%3E%20(Complete%20certification%20test),%20(Bind%20on%20project)%20%3E%20(Browse%20project),%20(Viev%20reports)%20%3E%20(select%20report%20type),%20(See%20project%20allotment%20report)%20%3E%20(chat%20with%20client),%20(Check%20notification)%20%3E%20(read),%20(Check%20notification)%20%3E%20(delete))
 
 # Value propositon:
- Titolo: "Esplora e Realizza: Dove Talentuosi Professionisti Incontrano le Tue Idee"
+Qui troverai una vasta rete di talentuosi professionisti pronti a mettere le proprie competenze al tuo servizio. Ci differenziamo offrendo non solo una selezione di talenti qualificati, ma anche soluzioni personalizzate per risolvere i tuoi problemi in modo creativo e preciso.
+
+Immergiti in un'esperienza utente intuitiva, risparmia tempo e denaro affidandoti a noi per ottenere risultati garantiti. La nostra piattaforma ti connetterà con professionisti affidabili, rendendo il processo semplice, efficace e soddisfacente. Scegli la nostra comunità per dare vita alle tue idee e superare le tue aspettative!
+
+# Titolo: "Esplora e Realizza: Dove Talentuosi Professionisti Incontrano le Tue Idee"
  
- Sottotittolo: "La Tua Visione, la Nostra Professionalità: Siamo Qui per Dare Vita alle Tue Aspirazioni"
+# Sottotittolo: "La Tua Visione, la Nostra Professionalità: Siamo Qui per Dare Vita alle Tue Aspirazioni"
  
- Lista dei benefici: 
+# Lista dei benefici: 
    1.Accesso a Talentuosi Professionisti: Collabora con esperti qualificati provenienti da varie discipline.
 
    2.Soluzioni Su Misura: Risolvi i tuoi problemi con servizi personalizzati e creativi.

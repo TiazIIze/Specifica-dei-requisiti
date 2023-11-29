@@ -50,3 +50,23 @@ Gestione delle Transazioni: Implementare un sistema sicuro di gestione delle tra
 
 Verifica dell'Identità: Implementare procedure di verifica dell'identità per i freelance per garantire la fiducia dei clienti.
 ![Alt UML](https://yuml.me/diagram/usecase/[Freelancer]-(Viev%20project),%20[Freelancer]-(Login),%20[Freelancer]-(Viev%20profile),%20[Freelancer]-(Bind%20on%20project),%20[Freelancer]-(Viev%20reports),%20[Freelancer]-(See%20project%20allotment%20report),%20[Freelancer]-(Check%20notification),%20(Viev%20project)%20%3E%20(Login),%20(Login)%20%3E%20(Register),%20(Login)%20%3E%20(Viev%20profile),%20(Bind%20on%20project)%20%3E%20(Complete%20certification%20test),%20(Bind%20on%20project)%20%3E%20(Browse%20project),%20(Viev%20reports)%20%3E%20(select%20report%20type),%20(See%20project%20allotment%20report)%20%3E%20(chat%20with%20client),%20(Check%20notification)%20%3E%20(read),%20(Check%20notification)%20%3E%20(delete))
+
+# Value propositon:
+ Titolo: "Esplora e Realizza: Dove Talentuosi Professionisti Incontrano le Tue Idee"
+ 
+ Sottotittolo: "La Tua Visione, la Nostra Professionalità: Siamo Qui per Dare Vita alle Tue Aspirazioni"
+ 
+ Lista dei benefici: 
+   1.Accesso a Talentuosi Professionisti: Collabora con esperti qualificati provenienti da varie discipline.
+
+   2.Soluzioni Su Misura: Risolvi i tuoi problemi con servizi personalizzati e creativi.
+
+   3.Risparmio di Tempo e Denaro: Semplifica il processo e ottieni risultati efficienti.
+
+   4.Garanzia di Qualità: Affidati a professionisti verificati per risultati eccezionali.
+
+   5.Esperienza Utente Intuitiva: Naviga facilmente nella nostra piattaforma per un'esperienza senza stress.
+
+   6.Connessione Affidabile: Trova collaboratori di fiducia per progetti di successo.
+
+   7.Politica di Rimborso: Soddisfazione garantita o rimborsati, la tua tranquillità è la nostra priorità.

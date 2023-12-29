@@ -51,6 +51,54 @@ Gestione delle Transazioni: Implementare un sistema sicuro di gestione delle tra
 Verifica dell'Identità: Implementare procedure di verifica dell'identità per i freelance per garantire la fiducia dei clienti.
 ![Alt UML](https://yuml.me/diagram/usecase/[Freelancer]-(Viev%20project),%20[Freelancer]-(Login),%20[Freelancer]-(Viev%20profile),%20[Freelancer]-(Bind%20on%20project),%20[Freelancer]-(Viev%20reports),%20[Freelancer]-(See%20project%20allotment%20report),%20[Freelancer]-(Check%20notification),%20(Viev%20project)%20%3E%20(Login),%20(Login)%20%3E%20(Register),%20(Login)%20%3E%20(Viev%20profile),%20(Bind%20on%20project)%20%3E%20(Complete%20certification%20test),%20(Bind%20on%20project)%20%3E%20(Browse%20project),%20(Viev%20reports)%20%3E%20(select%20report%20type),%20(See%20project%20allotment%20report)%20%3E%20(chat%20with%20client),%20(Check%20notification)%20%3E%20(read),%20(Check%20notification)%20%3E%20(delete))
 
+# Work Breakdown Structure
+1)Planning:
+1.1 Identificazione degli Obiettivi del Progetto 
+1.2 Analisi delle Esigenze e dei Requisiti 
+1.3 Pianificazione delle Risorse Necessarie 
+1.4 Definizione del Budget 
+1.5 Creazione di una Tabella di Marcia del Progetto
+
+2)Analysis
+
+2.1 Ricerca di Mercato e Analisi della Concorrenza
+2.2 Raccolta dei Requisiti Funzionali e Non Funzionali
+2.3 Definizione degli Utilizzatori Principali (Stakeholders)
+2.4 Analisi dei Rischi Potenziali
+2.5 Identificazione delle Funzionalità Chiave
+
+3)Design
+
+3.1 Definizione del Modello di Business
+3.2 Progettazione dell'Architettura del Sistema 
+3.3 Progettazione dell'Interfaccia Utente (UI) 
+3.4 Progettazione dell'Esperienza Utente (UX) 
+3.5 Definizione delle Caratteristiche di Sicurezza
+
+4)Build
+
+4.1 Configurazione dell'Ambiente di Sviluppo
+4.2 Sviluppo del Backend (Server, Database)
+4.3 Sviluppo del Frontend (Pagine Web, Interfaccia Utente)
+4.4 Implementazione delle Funzionalità di Base
+4.5 Integrazione di Servizi di Terze Parti (se necessario)
+
+5)Test
+
+5.1 Creazione di Piani di Test 
+5.2 Esecuzione di Test Funzionali e Non Funzionali 
+5.3 Test di Sicurezza e Vulnerabilità 
+5.4 Ottimizzazione delle Prestazioni 
+5.5 Risoluzione dei Bug e Debugging
+
+6)Go Live
+
+6.1 Pianificazione del Lancio Ufficiale
+6.2 Monitoraggio delle Performance durante il Lancio
+6.3 Gestione di Problemi e Incidenti Post-Lancio
+6.4 Supporto agli Utenti durante la Transizione
+6.5 Valutazione del Successo del Lancio
+
 # Value propositon:
 Qui troverai una vasta rete di talentuosi professionisti pronti a mettere le proprie competenze al tuo servizio. Ci differenziamo offrendo non solo una selezione di talenti qualificati, ma anche soluzioni personalizzate per risolvere i tuoi problemi in modo creativo e preciso.
 

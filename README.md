@@ -59,35 +59,35 @@ Verifica dell'Identità: Implementare procedure di verifica dell'identità per i
    1.4 Definizione del Budget 
    1.5 Creazione di una Tabella di Marcia del Progetto
 
-2)Analysis
+2)Analysis:
    2.1 Ricerca di Mercato e Analisi della Concorrenza
    2.2 Raccolta dei Requisiti Funzionali e Non Funzionali
    2.3 Definizione degli Utilizzatori Principali (Stakeholders)
    2.4 Analisi dei Rischi Potenziali
    2.5 Identificazione delle Funzionalità Chiave
 
-3)Design
+3)Design:
    3.1 Definizione del Modello di Business
    3.2 Progettazione dell'Architettura del Sistema 
    3.3 Progettazione dell'Interfaccia Utente (UI) 
    3.4 Progettazione dell'Esperienza Utente (UX) 
    3.5 Definizione delle Caratteristiche di Sicurezza
 
-4)Build
+4)Build:
    4.1 Configurazione dell'Ambiente di Sviluppo
    4.2 Sviluppo del Backend (Server, Database)
    4.3 Sviluppo del Frontend (Pagine Web, Interfaccia Utente)
    4.4 Implementazione delle Funzionalità di Base
    4.5 Integrazione di Servizi di Terze Parti (se necessario)
 
-5)Test
+5)Test:
    5.1 Creazione di Piani di Test 
    5.2 Esecuzione di Test Funzionali e Non Funzionali 
    5.3 Test di Sicurezza e Vulnerabilità 
    5.4 Ottimizzazione delle Prestazioni 
    5.5 Risoluzione dei Bug e Debugging
 
-6)Go Live
+6)Go Live:
    6.1 Pianificazione del Lancio Ufficiale
    6.2 Monitoraggio delle Performance durante il Lancio
    6.3 Gestione di Problemi e Incidenti Post-Lancio

@@ -119,3 +119,12 @@ Immergiti in un'esperienza utente intuitiva, risparmia tempo e denaro affidandot
    6.Connessione Affidabile: Trova collaboratori di fiducia per progetti di successo.
 
    7.Politica di Rimborso: Soddisfazione garantita o rimborsati, la tua tranquillità è la nostra priorità.
+
+# User stories:
+   1.Come un utente, voglio poter creare un account sul platform, in modo da poter accedere a tutte le funzionalità disponibili.
+   2.Come un cliente, voglio poter cercare e visualizzare i profili di freelancer in base alle loro competenze e recensioni, così da poter selezionare il professionista più adatto alle mie esigenze.
+   3.Come un freelancer, voglio poter creare un profilo completo, includendo le mie competenze, esperienze e tariffe, in modo da attirare clienti interessati.
+   4.Come un cliente, voglio poter avviare una richiesta di servizio, specificando dettagli e requisiti specifici, in modo da ricevere offerte da parte dei freelancer interessati.
+   5.Come un freelancer, voglio poter rispondere alle richieste di servizio, inviando un'offerta completa con dettagli sulle competenze, tempi e costi, in modo da competere per nuovi progetti.
+   6.Come un utente, voglio poter gestire i pagamenti in modo sicuro, utilizzando diverse opzioni come carte di credito o altri metodi di pagamento online.
+   7.Come un amministratore, voglio poter monitorare l'attività sul platform, visualizzando statistiche, gestendo utenti e risolvendo eventuali controversie.

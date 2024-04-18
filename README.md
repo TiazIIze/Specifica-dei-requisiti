@@ -49,7 +49,7 @@ Dashboard Personale: Fornire un cruscotto personale per i freelance e i clienti 
 Gestione delle Transazioni: Implementare un sistema sicuro di gestione delle transazioni finanziarie, inclusa la gestione delle commissioni.
 
 Verifica dell'Identità: Implementare procedure di verifica dell'identità per i freelance per garantire la fiducia dei clienti.
-![Alt UML](https://yuml.me/8041d0cf.svg)
+![Alt UML](https://yuml.me/olehriznychuk/autoquizdiagram.svg)
 
 # Work Breakdown Structure
 1)Planning:

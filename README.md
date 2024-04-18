@@ -49,7 +49,7 @@ Dashboard Personale: Fornire un cruscotto personale per i freelance e i clienti 
 Gestione delle Transazioni: Implementare un sistema sicuro di gestione delle transazioni finanziarie, inclusa la gestione delle commissioni.
 
 Verifica dell'Identità: Implementare procedure di verifica dell'identità per i freelance per garantire la fiducia dei clienti.
-![Alt UML](https://yuml.me/diagram/usecase/[Freelancer]-(Viev%20project),%20[Freelancer]-(Login),%20[Freelancer]-(Viev%20profile),%20[Freelancer]-(Bind%20on%20project),%20[Freelancer]-(Viev%20reports),%20[Freelancer]-(See%20project%20allotment%20report),%20[Freelancer]-(Check%20notification),%20(Viev%20project)%20%3E%20(Login),%20(Login)%20%3E%20(Register),%20(Login)%20%3E%20(Viev%20profile),%20(Bind%20on%20project)%20%3E%20(Complete%20certification%20test),%20(Bind%20on%20project)%20%3E%20(Browse%20project),%20(Viev%20reports)%20%3E%20(select%20report%20type),%20(See%20project%20allotment%20report)%20%3E%20(chat%20with%20client),%20(Check%20notification)%20%3E%20(read),%20(Check%20notification)%20%3E%20(delete))
+![Alt UML](https://yuml.me/olehriznychuk/autoquizdiagram.svg)
 
 # Work Breakdown Structure
 1)Planning:
